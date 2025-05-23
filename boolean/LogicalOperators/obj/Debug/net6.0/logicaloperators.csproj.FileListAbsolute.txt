@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\bin\Debug\net6.0\logicaloperators.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\bin\Debug\net6.0\logicaloperators.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\bin\Debug\net6.0\logicaloperators.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\bin\Debug\net6.0\logicaloperators.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\bin\Debug\net6.0\logicaloperators.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\refint\logicaloperators.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\logicaloperators.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\boolean\LogicalOperators\obj\Debug\net6.0\ref\logicaloperators.dll

@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\bin\Debug\net6.0\booleans.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\bin\Debug\net6.0\booleans.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\bin\Debug\net6.0\booleans.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\bin\Debug\net6.0\booleans.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\bin\Debug\net6.0\booleans.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\refint\booleans.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\booleans.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\booleans\obj\Debug\net6.0\ref\booleans.dll

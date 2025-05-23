@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\bin\Debug\net6.0\TryCatchBasic.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\bin\Debug\net6.0\TryCatchBasic.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\bin\Debug\net6.0\TryCatchBasic.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\bin\Debug\net6.0\TryCatchBasic.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\bin\Debug\net6.0\TryCatchBasic.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\refint\TryCatchBasic.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\TryCatchBasic.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\error_handling\TryCatchBasic\obj\Debug\net6.0\ref\TryCatchBasic.dll
