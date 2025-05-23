@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\bin\Debug\net6.0\CountToFive.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\bin\Debug\net6.0\CountToFive.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\bin\Debug\net6.0\CountToFive.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\bin\Debug\net6.0\CountToFive.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\bin\Debug\net6.0\CountToFive.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\refint\CountToFive.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\CountToFive.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\CountToFive\obj\Debug\net6.0\ref\CountToFive.dll

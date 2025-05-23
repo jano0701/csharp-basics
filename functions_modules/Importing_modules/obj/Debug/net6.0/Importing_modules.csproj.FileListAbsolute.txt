@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\bin\Debug\net6.0\Importing_modules.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\bin\Debug\net6.0\Importing_modules.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\bin\Debug\net6.0\Importing_modules.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\bin\Debug\net6.0\Importing_modules.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\bin\Debug\net6.0\Importing_modules.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\refint\Importing_modules.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\Importing_modules.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Importing_modules\obj\Debug\net6.0\ref\Importing_modules.dll

@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\bin\Debug\net6.0\IfElseIfElse.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\bin\Debug\net6.0\IfElseIfElse.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\bin\Debug\net6.0\IfElseIfElse.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\bin\Debug\net6.0\IfElseIfElse.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\bin\Debug\net6.0\IfElseIfElse.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\refint\IfElseIfElse.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\IfElseIfElse.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\if_statements\IfElseIfElse\obj\Debug\net6.0\ref\IfElseIfElse.dll

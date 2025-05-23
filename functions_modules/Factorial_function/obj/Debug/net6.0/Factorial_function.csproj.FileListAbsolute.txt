@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\bin\Debug\net6.0\Factorial_function.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\bin\Debug\net6.0\Factorial_function.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\bin\Debug\net6.0\Factorial_function.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\bin\Debug\net6.0\Factorial_function.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\bin\Debug\net6.0\Factorial_function.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\refint\Factorial_function.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\Factorial_function.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Factorial_function\obj\Debug\net6.0\ref\Factorial_function.dll

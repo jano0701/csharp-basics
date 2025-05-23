@@ -12,7 +12,7 @@ class PrintBasics
     Console.WriteLine(3.14);
 
     // Du kannst auch mehrere Zeichenketten kombinieren
-    string name = "Janoshan";
+    string name = "Jano";
     Console.WriteLine("Hallo, " + name + "!");
 
     // Escape-Zeichen: \n = Zeilenumbruch, \t = Tabulator

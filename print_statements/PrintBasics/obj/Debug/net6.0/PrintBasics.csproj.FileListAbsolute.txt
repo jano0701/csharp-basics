@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\bin\Debug\net6.0\PrintBasics.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\bin\Debug\net6.0\PrintBasics.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\bin\Debug\net6.0\PrintBasics.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\bin\Debug\net6.0\PrintBasics.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\bin\Debug\net6.0\PrintBasics.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\refint\PrintBasics.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\PrintBasics.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\PrintBasics\obj\Debug\net6.0\ref\PrintBasics.dll

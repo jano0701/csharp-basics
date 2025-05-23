@@ -9,7 +9,5 @@ class CountToFive
     {
       Console.WriteLine("Zahl: " + i);
     }
-
-    // Hinweis: i++ bedeutet: i = i + 1
   }
 }

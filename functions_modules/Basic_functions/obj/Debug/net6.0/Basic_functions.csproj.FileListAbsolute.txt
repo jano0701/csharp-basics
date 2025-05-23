@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\bin\Debug\net6.0\Basic_functions.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\bin\Debug\net6.0\Basic_functions.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\bin\Debug\net6.0\Basic_functions.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\bin\Debug\net6.0\Basic_functions.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\bin\Debug\net6.0\Basic_functions.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\refint\Basic_functions.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\Basic_functions.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Basic_functions\obj\Debug\net6.0\ref\Basic_functions.dll

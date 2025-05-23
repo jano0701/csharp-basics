@@ -6,11 +6,10 @@ class WhileUserInput
   {
     string eingabe = "";
 
-    // Wiederhole, bis der Benutzer "exit" eingibt
-    while (eingabe != "exit")
+    while (eingabe.ToLower() != "exit")
     {
       Console.Write("Gib etwas ein (oder 'exit' zum Beenden): ");
-      eingabe = Console.ReadLine(); // Eingabe lesen
+      eingabe = Console.ReadLine();
 
       Console.WriteLine("Du hast eingegeben: " + eingabe);
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1yiXRm6U9C2qOO07qgkAXJv4bulaiY81VX1yskpcWrch1CiVFeaMyMM0aYs5gNPrMiUqKJ3NzOgUhmPjmanA7A==",
+  "dgSpecHash": "8TngxB2noT2sT0cIJ/WBZicyGRCeJAlXSyb5+HdT0La+yR0sy3TEhFWMiU9UHL5UCgEwuQ9n/IdCkmP1e+PEOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Person.csproj",
+  "projectFilePath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Program.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

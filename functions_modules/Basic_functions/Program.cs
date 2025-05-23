@@ -12,4 +12,3 @@ class BasicFunctions
     Begruessung();
   }
 }
-factorial_function.cs

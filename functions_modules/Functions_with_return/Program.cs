@@ -14,4 +14,3 @@ class FunctionsWithReturn
     Console.WriteLine($"{eingabe} verdoppelt ergibt {ergebnis}");
   }
 }
-mporting_modules.cs

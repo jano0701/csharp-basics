@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\bin\Debug\net6.0\Risk_filter_example.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\bin\Debug\net6.0\Risk_filter_example.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\bin\Debug\net6.0\Risk_filter_example.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\bin\Debug\net6.0\Risk_filter_example.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\bin\Debug\net6.0\Risk_filter_example.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\refint\Risk_filter_example.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\Risk_filter_example.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\functions_modules\Risk_filter_example\obj\Debug\net6.0\ref\Risk_filter_example.dll

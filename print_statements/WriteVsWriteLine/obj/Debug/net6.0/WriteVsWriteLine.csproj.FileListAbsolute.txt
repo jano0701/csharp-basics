@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\bin\Debug\net6.0\WriteVsWriteLine.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\bin\Debug\net6.0\WriteVsWriteLine.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\bin\Debug\net6.0\WriteVsWriteLine.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\bin\Debug\net6.0\WriteVsWriteLine.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\bin\Debug\net6.0\WriteVsWriteLine.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\refint\WriteVsWriteLine.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\WriteVsWriteLine.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\print_statements\WriteVsWriteLine\obj\Debug\net6.0\ref\WriteVsWriteLine.dll

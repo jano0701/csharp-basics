@@ -1,0 +1,3 @@
+Das ist ein Testinhalt für die Datei.
+Diese Zeilen sollen im Terminal angezeigt werden,
+wenn die Datei erfolgreich gelesen wird.

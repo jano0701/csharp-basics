@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\LoopThroughArray\\LoopThroughArray.csproj",
+      "projectUniqueName": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\for_loops\\LoopThroughArray\\LoopThroughArray.csproj",
       "projectName": "LoopThroughArray",
-      "projectPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\LoopThroughArray\\LoopThroughArray.csproj",
+      "projectPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\for_loops\\LoopThroughArray\\LoopThroughArray.csproj",
       "packagesPath": "C:\\Users\\jano2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\LoopThroughArray\\obj\\",
+      "outputPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\for_loops\\LoopThroughArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jano2\\AppData\\Roaming\\NuGet\\NuGet.Config"

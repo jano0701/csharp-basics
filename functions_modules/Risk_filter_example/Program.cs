@@ -34,7 +34,7 @@ class RiskFilterExample
 
     var kritisch = FilterKritischeRisiken(risiken);
 
-    Console.WriteLine("⚠️ Kritische Risiken:");
+    Console.WriteLine("Kritische Risiken:");
     foreach (var r in kritisch)
     {
       Console.WriteLine($"- {r.Name} (Level {r.Level})");

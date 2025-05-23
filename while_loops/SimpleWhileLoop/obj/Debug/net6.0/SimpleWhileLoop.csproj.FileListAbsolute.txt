@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\bin\Debug\net6.0\SimpleWhileLoop.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\bin\Debug\net6.0\SimpleWhileLoop.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\bin\Debug\net6.0\SimpleWhileLoop.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\bin\Debug\net6.0\SimpleWhileLoop.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\bin\Debug\net6.0\SimpleWhileLoop.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\refint\SimpleWhileLoop.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\SimpleWhileLoop.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\SimpleWhileLoop\obj\Debug\net6.0\ref\SimpleWhileLoop.dll

@@ -2,24 +2,21 @@ using System;
 
 namespace OOPBasics
 {
-  // Diese Klasse beschreibt eine Person mit Name und Alter
-  public class Person
+  class Program
   {
-    // Eigenschaften (Felder mit get/set)
-    public string Name { get; set; }
-    public int Alter { get; set; }
-
-    // Konstruktor: wird beim Erzeugen des Objekts automatisch aufgerufen
-    public Person(string name, int alter)
+    static void Main(string[] args)
     {
-      Name = name;
-      Alter = alter;
-    }
+      // Wir erstellen zwei Personen-Objekte
+      Person person1 = new Person("Anna", 25);
+      Person person2 = new Person("Ben", 32);
 
-    // Methode: führt eine Aktion mit den Objektdaten aus
-    public void Begruessen()
-    {
-      Console.WriteLine($"Hallo, mein Name ist {Name} und ich bin {Alter} Jahre alt.");
+      // Die Methode Begruessen wird aufgerufen
+      person1.Begruessen();
+      person2.Begruessen();
+
+      // Ausgabe:
+      // Hallo, mein Name ist Anna und ich bin 25 Jahre alt.
+      // Hallo, mein Name ist Ben und ich bin 32 Jahre alt.
     }
   }
 }

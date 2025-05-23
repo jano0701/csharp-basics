@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\bin\Debug\net6.0\LoopThroughArray.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\bin\Debug\net6.0\LoopThroughArray.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\bin\Debug\net6.0\LoopThroughArray.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\bin\Debug\net6.0\LoopThroughArray.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\bin\Debug\net6.0\LoopThroughArray.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\refint\LoopThroughArray.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\LoopThroughArray.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\for_loops\LoopThroughArray\obj\Debug\net6.0\ref\LoopThroughArray.dll

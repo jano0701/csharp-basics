@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Person.csproj",
-      "projectName": "Person",
-      "projectPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\Program.csproj",
       "packagesPath": "C:\\Users\\jano2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jano2\\OneDrive\\Desktop\\Informatik Semester\\Projekte\\csharp-basics\\oop_basics\\Person\\obj\\",
       "projectStyle": "PackageReference",

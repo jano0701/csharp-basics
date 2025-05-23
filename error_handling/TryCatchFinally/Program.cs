@@ -11,18 +11,18 @@ class TryCatchFinally
     {
       // Versuch, die Datei zu lesen (existiert vielleicht nicht)
       string inhalt = File.ReadAllText(dateiname);
-      Console.WriteLine("📄 Dateiinhalte:");
+      Console.WriteLine("Dateiinhalte:");
       Console.WriteLine(inhalt);
     }
     catch (FileNotFoundException)
     {
       // Wird ausgeführt, wenn die Datei nicht gefunden wurde
-      Console.WriteLine("❌ Fehler: Datei wurde nicht gefunden.");
+      Console.WriteLine("Fehler: Datei wurde nicht gefunden.");
     }
     finally
     {
       // Wird **immer** ausgeführt – egal ob mit oder ohne Fehler
-      Console.WriteLine("🔚 Programm beendet.");
+      Console.WriteLine("Programm beendet.");
     }
   }
 }

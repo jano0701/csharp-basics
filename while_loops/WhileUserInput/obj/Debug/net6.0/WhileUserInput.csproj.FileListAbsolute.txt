@@ -1,0 +1,15 @@
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\bin\Debug\net6.0\WhileUserInput.exe
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\bin\Debug\net6.0\WhileUserInput.deps.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\bin\Debug\net6.0\WhileUserInput.runtimeconfig.json
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\bin\Debug\net6.0\WhileUserInput.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\bin\Debug\net6.0\WhileUserInput.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.csproj.AssemblyReference.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.AssemblyInfoInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.AssemblyInfo.cs
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.csproj.CoreCompileInputs.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\refint\WhileUserInput.dll
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.pdb
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\WhileUserInput.genruntimeconfig.cache
+C:\Users\jano2\OneDrive\Desktop\Informatik Semester\Projekte\csharp-basics\while_loops\WhileUserInput\obj\Debug\net6.0\ref\WhileUserInput.dll
